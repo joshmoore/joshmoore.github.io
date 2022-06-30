@@ -13,4 +13,7 @@ Other pages are available at
 and
 [Glencoe Software](https://www.glencoesoftware.com/about/team/).
 
+<iframe style="width: 100%; height: 500px" name="vizarr" src="https://hms-dbmi.github.io/vizarr/v0.1/?source=https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.1/9836831.zarr">
+</iframe>
+
 <script src="http://gist.github.com/1388145.js"></script>
