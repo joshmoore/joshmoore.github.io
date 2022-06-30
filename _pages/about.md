@@ -11,6 +11,6 @@ redirect_from:
 Other pages are available at
 [OME](https://www.openmicroscopy.org/site/about/development-teams/jason)
 and
-[Glencoe Software](http://www.glencoesoftware.com/team.html">Glencoe).
+[Glencoe Software](https://www.glencoesoftware.com/about/team/).
 
 <script src="http://gist.github.com/1388145.js"></script>
