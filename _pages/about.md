@@ -10,7 +10,7 @@ redirect_from:
 
 
 I focus on the standardization and storage of bioimaging data. Typically, that means finding ways
-of storing large binary with well-specific metadata in order to make them shareable, like these 500GB:
+of storing large binary with well-defined metadata in order to make them shareable, like these 500GB:
 
 <iframe style="width: 100%; height: 500px" name="vizarr" src="https://hms-dbmi.github.io/vizarr/v0.1/?source=https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.1/4495402.zarr">
 </iframe>
